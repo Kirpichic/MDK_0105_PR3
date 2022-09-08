@@ -1,16 +1,16 @@
 #filter{
-    background:rgb(179, 179, 179);
-    border: 5px solid rgb(60, 255, 0);
+    background:rgb(255, 118, 118);
+    border: 5px inset rgb(255, 0, 0);
     width: 300px;
-    height:1000px;
+    height:700px;
     float: left;
     display: block;
 }
 #chart{
-    background:rgb(179, 179, 179);
-    border: 5px solid rgb(60, 255, 0);
+    background:rgb(137, 252, 126);
+    border: 5px double rgb(255, 251, 0);
     width:1500px;
-    height:1000px;
+    height:700px;
     float: right;
     display: block;
 }
